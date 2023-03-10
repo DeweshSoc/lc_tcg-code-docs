@@ -307,6 +307,7 @@ tr > th:last-child { border-right: 1px solid #ddd; }
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  background-color: #242424;
 }
 
 .prettyprint.linenums ol
