@@ -322,7 +322,7 @@ tr > th:last-child { border-right: 1px solid #ddd; }
 .prettyprint.linenums li.selected,
 .prettyprint.linenums li.selected *
 {
-  background-color: lightyellow;
+  background-color: #4d4e53;
 }
 
 .prettyprint.linenums li *
